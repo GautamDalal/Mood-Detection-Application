@@ -1,4 +1,4 @@
-# mood_detection_xo
+# Mood_Detection_Application
 An ML project that helps detect the mood and emotion of an individual, made using tensorflow.
 ![image](https://github.com/purvansh-xoxo/mood_detection_xo/assets/74221748/d4c1a557-dc29-46d8-b8b6-ddd6db7942d2)
 ![Screenshot 2023-06-26 at 18 55 25](https://github.com/purvansh-xoxo/mood_detection_xo/assets/74221748/f30bf39c-d3c7-46ab-84b1-7ecaac99f386)
